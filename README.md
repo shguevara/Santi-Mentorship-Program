@@ -67,7 +67,7 @@ This is the progression path. Think of it as a ladder, one rung at a time 🪜:
 2. **Level 2: Frontend Foundations**
 3. **Level 3: Backend Foundations**
 4. **Level 4: Full Stack Project**
-5. **Level 5: Team Simulation Project (with Mateo)**
+5. **Level 5: Team Simulation Project (with Matheo)**
 
 Each level ends with a finished project, a demo, and a reflection.
 
